@@ -108,11 +108,10 @@ Contacts
 
 ##### Contacts
 
-### Master Abel
+###### Master Abel
 - Any day 1600 onwards
 
-### Master Juan Jose
-
+###### Master Juan Jose
 - Tuesday
   - 0800-0900
   - 2030-2100
@@ -120,25 +119,21 @@ Contacts
   - 0800-0900
   - 2030-2100
 
-### Master Nikko
-
+###### Master Nikko
 - Any day 1300 onwards
   - Check schedule for availability
 
-### Master Maide
-
+###### Master Maide
 - Tuesday
   - 1000-1200
 
-### Master Abyong (John Rey)
-
+###### Master Abyong (John Rey)
 - Any day
   - 1700-1800
 - T/Th
   - 0900-1100
 
-### Master Jester
-
+###### Master Jester
 - Flexible
 
 
