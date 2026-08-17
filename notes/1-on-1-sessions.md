@@ -86,8 +86,8 @@ Contacts
 
 ---
 
-Priority Order
 To-do
+Priority Order
 Contacts
 
 ---
