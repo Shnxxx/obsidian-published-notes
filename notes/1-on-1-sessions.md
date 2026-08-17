@@ -92,26 +92,23 @@ Contacts
 
 ---
 
-## To-do
-
+##### To-do
 1. Compare
 2. Agree
 3. Matching
 4. Delegate
 5. Tracker
 
-## Priority Order
-
+##### Priority Order
 1. Me and Master Giu's availability
 2. Masters' stated availability
 3. Calendar availability
 4. Spread the sessions out
 5. Earliest reasonable slot
 
-## Contacts
+##### Contacts
 
 ### Master Abel
-
 - Any day 1600 onwards
 
 ### Master Juan Jose
