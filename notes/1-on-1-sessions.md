@@ -20,6 +20,7 @@ title: "1-on-1 Sessions"
 | Master Gail | Yes       | Received     | Not yet   | N/A              | In Progress |
 | Master Gillian       | Yes       | Received     | Not yet   | N/A              | In Progress |
 | Master Isa            | Yes       | Received     | Not yet   | N/A              | In Progress |
+| Master Jamyca                          |           |              |           |                  |             |
 | Master Joyce      | Yes       | Received     | Not yet   | N/A              | In Progress |
 | Master Julie          | Yes       | Received     | Not yet   | N/A              | In Progress |
 | Master Valen                           |           |              |           |                  |             |
