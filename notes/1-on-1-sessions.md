@@ -26,8 +26,11 @@ title: "1-on-1 Sessions"
 | Master Valen     | Not Yet   | Not Yet      | Not yet   | N/A              | In Progress     |
 
 
-###### Master 
-###### Master 
+###### Master AJ
+- Thursday
+	- Morning
+###### Master Gail
+- 
 ###### Master 
 ###### Master 
 ###### Master 
