@@ -14,14 +14,14 @@ title: "1-on-1 Sessions"
 | Master Nikko            | Yes       | Received     | Not yet   | N/A              | In Progress |
 
 
-| To Contact                               | Contacted | Availability | Scheduled | Needs Reschedule | Status      |
-| ---------------------------------------- | --------- | ------------ | --------- | ---------------- | ----------- |
-| Master AJ                | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Abyong | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Jester          | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Juan Jose    | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Maide            | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Nikko            | Yes       | Received     | Not yet   | N/A              | In Progress |
+| To Contact                             | Contacted | Availability | Scheduled | Needs Reschedule | Status      |
+| -------------------------------------- | --------- | ------------ | --------- | ---------------- | ----------- |
+| Master AJ              | Yes       | Received     | Not yet   | N/A              | In Progress |
+| Master Gail | Yes       | Received     | Not yet   | N/A              | In Progress |
+| Master Gillian       | Yes       | Received     | Not yet   | N/A              | In Progress |
+| Master Juan Jose  | Yes       | Received     | Not yet   | N/A              | In Progress |
+| Master Maide          | Yes       | Received     | Not yet   | N/A              | In Progress |
+| Master Nikko          | Yes       | Received     | Not yet   | N/A              | In Progress |
 
 
 ---
