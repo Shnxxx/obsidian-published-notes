@@ -14,16 +14,16 @@ title: "1-on-1 Sessions"
 | Master Nikko            | Yes       | Received     | Not yet   | N/A              | In Progress |
 
 
-| To Contact                             | Contacted | Availability | Scheduled | Needs Reschedule | Status      |
-| -------------------------------------- | --------- | ------------ | --------- | ---------------- | ----------- |
-| Master AJ              | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Gail | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Gillian       | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Isa            | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Jamyca                          |           |              |           |                  |             |
-| Master Joyce      | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Julie          | Yes       | Received     | Not yet   | N/A              | In Progress |
-| Master Valen                           |           |              |           |                  |             |
+| To Contact                        | Contacted | Availability | Scheduled | Needs Reschedule | Status          |
+| --------------------------------- | --------- | ------------ | --------- | ---------------- | --------------- |
+| Master AJ           | Yes       | Received     | Not yet   | N/A              | In Progress     |
+| Master Gail       | Yes       | Received     | Not yet   | N/A              | In Progress     |
+| Master Gillian | Yes       | Received     | Not yet   | N/A              | In Progress     |
+| Master Isa       | Not Yet   | Not Yet      | Not yet   | N/A              | In Progress     |
+| Master Jamyca                     | Yes       | Not Yet      | Not yet   | N/A              | In Progress     |
+| Master Joyce | Yes       | Received     | Not yet   | N/A              | In Progress     |
+| Master Julie     | N/A       | N/A          | N/A       | N/A              | Maternity Leave |
+| Master Valen                      | Not Yet   | Not Yet      | Not yet   | N/A              | In Progress     |
 
 
 
@@ -78,6 +78,8 @@ Contacts
 
 ###### Master Jester
 - Flexible
+
+
 
 
 
