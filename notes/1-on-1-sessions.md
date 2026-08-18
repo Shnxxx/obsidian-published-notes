@@ -30,14 +30,23 @@ title: "1-on-1 Sessions"
 - Thursday
 	- Morning
 ###### Master Gail
+- Thursday
+	- 0900-1200
+###### Master Gillian
+- Tuesday
+	- 1330 onwards
+###### Master Isa
 - 
-###### Master 
-###### Master 
-###### Master 
-###### Master 
-###### Master 
+###### Master Jamyca
+- 
+###### Master Joyce
+- Thursday
+	- 1430 onwards(?)
+###### Master Julie
+- On Maternity Leave
 
-
+###### Master Valen
+- 
 
 ---
 
